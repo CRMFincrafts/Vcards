@@ -1,6 +1,7 @@
 BEGIN:VCARD 
 VERSION:3.0 
-FN:Nils Mücke 
+FN:Nils Mücke
+N:Mücke; Nils
 ORG:FinCrafts GmbH 
 TITLE:Consultant 
 TEL;TYPE=CELL:+49 
