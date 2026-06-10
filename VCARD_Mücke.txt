@@ -1,0 +1,10 @@
+BEGIN:VCARD 
+VERSION:3.0 
+FN:Nils Mücke 
+ORG:FinCrafts GmbH 
+TITLE:Consultant 
+TEL;TYPE=CELL:+49 
+EMAIL:Nils.Muecke@fincrafts.de 
+URL:https://fincrafts.de 
+ADR;TYPE=WORK:;;...;Hamburg;;...;DE 
+END:VCARD 

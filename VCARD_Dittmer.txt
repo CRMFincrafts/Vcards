@@ -1,0 +1,10 @@
+BEGIN:VCARD 
+VERSION:3.0 
+FN:Martin Dittmer
+ORG:FinCrafts GmbH 
+TITLE:Geschäftsführer 
+TEL;TYPE=CELL:+49 
+EMAIL:Martin.Dittmer@fincrafts.de 
+URL:https://fincrafts.de 
+ADR;TYPE=WORK:;;...;Hamburg;;...;DE 
+END:VCARD 

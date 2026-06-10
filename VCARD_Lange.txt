@@ -1,0 +1,10 @@
+BEGIN:VCARD 
+VERSION:3.0 
+FN:Dirk Lange
+ORG:FinCrafts GmbH 
+TITLE:Geschäftsführer 
+TEL;TYPE=CELL:+49 
+EMAIL:Dirk.Lange@fincrafts.de 
+URL:https://fincrafts.de 
+ADR;TYPE=WORK:;;...;Hamburg;;...;DE 
+END:VCARD 
